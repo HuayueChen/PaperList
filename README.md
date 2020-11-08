@@ -1,10 +1,8 @@
 # PaperList
-1. Lower Band Cascade of Whistler Waves Excited by Anisotropic Hot Electrons: One-Dimensional PIC Simulations  
+1. *Huayue Chen*, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). Lower Band Cascade of Whistler Waves Excited by Anisotropic Hot Electrons: One-Dimensional PIC Simulations. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513.  
 
 2. Nonlinear Evolution of Counter-Propagating Whistler Mode Waves Excited by Anisotropic Electrons Within the Equatorial Source Region: 1-D PIC Simulations  
-
 3. In Situ Observations of Harmonic Alfvén Waves and Associated Heavy Ion Heating
-
 4. 1-D particle-in-cell simulations of electron acoustic solitary structures in an electron beam-plasma  
 5. Generation of harmonic Alfvén waves and its implications to heavy ion heating in the solar corona: Hybrid simulations  
 6. The effects of beam proportion on electromagnetic proton/proton instability and associated ion heating: 2D hybrid simulation  
