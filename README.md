@@ -7,12 +7,14 @@
 
 4. A. A. Abid, Quanming Lu, **Huayue Chen**, Yangguang Ke, S. Ali, & Shui Wang (2019). Effects of electron trapping on nonlinear electron-acoustic waves excited by an electron beam via particle-in-cell simulations. Plasma Science and Technology, 21 (5), https://doi.org/10.1088/2058-6272/ab033f.  
 
-4. A. A. Abid, Quanming Lu, M. N. S. Qureshi, XinLiang Gao, **Huayue Chen**, K. H. Shah, & Shui Wang (2019). 1-D particle-in-cell simulations of electron acoustic solitary structures in an electron beam-plasma. AIP Advances, 9, 025029, https://doi.org/10.1063/1.5080757.  
+5. A. A. Abid, Quanming Lu, M. N. S. Qureshi, XinLiang Gao, **Huayue Chen**, K. H. Shah, & Shui Wang (2019). 1-D particle-in-cell simulations of electron acoustic solitary structures in an electron beam-plasma. AIP Advances, 9, 025029, https://doi.org/10.1063/1.5080757.  
 
-5. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Shui Wang (2019). Analyzing EMIC Waves in the Inner Magnetosphere Using Long‐Term Van Allen Probes Observations. Journal of Geophysical Research: Space Physics, 124 (9), 7204-7412, https://doi.org/10.1029/2019JA026965.  
+6. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Shui Wang (2019). Analyzing EMIC Waves in the Inner Magnetosphere Using Long‐Term Van Allen Probes Observations. Journal of Geophysical Research: Space Physics, 124 (9), 7204-7412, https://doi.org/10.1029/2019JA026965.  
 
-6. Jiansheng Yao, Xinliang Gao, **Huayue Chen**, Yangguang Ke, & Yi Li (2020). Generation of harmonic Alfvén waves and its implications to heavy ion heating in the solar corona: Hybrid simulations. Physics of Plasmas, 27, 022901, https://doi.org/10.1063/1.5128744    
+7. Jiansheng Yao, Quanming Lu, Xinliang Gao, Jian Zheng, **Huayue Chen**, Yi Li, & Shui Wang (2020). Generation of harmonic Alfvén waves and its implications to heavy ion heating in the solar corona: Hybrid simulations. Physics of Plasmas, 27, 012901, https://doi.org/10.1063/1.5126169.    
 
-7. Jiansheng Yao, Quanming Lu, Xinliang Gao, Jian Zheng, **Huayue Chen**,The effects of beam proportion on electromagnetic proton/proton instability and associated ion heating: 2D hybrid simulation. Physics of Plasmas, 27, 012901 (2020), http://doi:10.1063/1.5126169.   
+8. Jiansheng Yao, Xinliang Gao, **Huayue Chen**, Yangguang Ke, & Yi Li (2020). The effects of beam proportion on electromagnetic proton/proton instability and associated ion heating: 2D hybrid simulation. Physics of Plasmas, 27, 022901 (2020), http://doi:10.1063/1.5128744.   
 
-8. **Huayue Chen**, Xinliang Gao, Quanming Lu, Bruce T. Tsurutani, & Shui Wang (2020). Statistical Evidence for EMIC Wave Excitation Driven by Substorm Injection and Enhanced Solar Wind Pressure in the Earth's Magnetosphere: Two Different EMIC Wave Sources. Geophysical Research Letters, 47 (21), https://doi.org/10.1029/2020GL090275.   
+9. Rui Chen, Xinliang Gao, **Huayue Chen**, & Shui Wang (2020). A new generation mechanism of three-band chorus waves in the Earth’s magnetosphere.Journal of University of Science and Technology of China, 50 (9): 1249-1257, https://doi:10.3969/j.issn.0253-2778.2020.09.004.  
+
+10. **Huayue Chen**, Xinliang Gao, Quanming Lu, Bruce T. Tsurutani, & Shui Wang (2020). Statistical Evidence for EMIC Wave Excitation Driven by Substorm Injection and Enhanced Solar Wind Pressure in the Earth's Magnetosphere: Two Different EMIC Wave Sources. Geophysical Research Letters, 47 (21), https://doi.org/10.1029/2020GL090275.   
