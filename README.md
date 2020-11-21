@@ -20,3 +20,6 @@
 10. Rui Chen, Xinliang Gao, **Huayue Chen**, & Shui Wang (2020). A new generation mechanism of three-band chorus waves in the Earth’s magnetosphere.Journal of University of Science and Technology of China, 50 (9): 1249-1257, https://doi:10.3969/j.issn.0253-2778.2020.09.004.  
 
 11. **Huayue Chen**, Xinliang Gao, Quanming Lu, Bruce T. Tsurutani, & Shui Wang (2020). Statistical Evidence for EMIC Wave Excitation Driven by Substorm Injection and Enhanced Solar Wind Pressure in the Earth's Magnetosphere: Two Different EMIC Wave Sources. Geophysical Research Letters, 47 (21), https://doi.org/10.1029/2020GL090275.   
+
+12. **Huayue Chen**, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). Two-Band Whistler-mode Waves Excited by an Electron Bi-Maxwellian Distribution Plus Parallel Beams. AIP Advances, accepted.  
+Author: Huayue Chen, Konrad Sauer, Quanming Lu, Xinliang Gao, and Shaojie Wang. 
