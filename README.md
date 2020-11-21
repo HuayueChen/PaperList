@@ -22,4 +22,3 @@
 11. **Huayue Chen**, Xinliang Gao, Quanming Lu, Bruce T. Tsurutani, & Shui Wang (2020). Statistical Evidence for EMIC Wave Excitation Driven by Substorm Injection and Enhanced Solar Wind Pressure in the Earth's Magnetosphere: Two Different EMIC Wave Sources. Geophysical Research Letters, 47 (21), https://doi.org/10.1029/2020GL090275.   
 
 12. **Huayue Chen**, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). Two-Band Whistler-mode Waves Excited by an Electron Bi-Maxwellian Distribution Plus Parallel Beams. AIP Advances, accepted.  
-Author: Huayue Chen, Konrad Sauer, Quanming Lu, Xinliang Gao, and Shaojie Wang. 
