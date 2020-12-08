@@ -15,10 +15,10 @@
 
 8. Jiansheng Yao, Quanming Lu, Xinliang Gao, Jian Zheng, **Huayue Chen**, Yi Li, & Shui Wang (2020). Generation of harmonic Alfvén waves and its implications to heavy ion heating in the solar corona: Hybrid simulations. Physics of Plasmas, 27, 012901, https://doi.org/10.1063/1.5126169.    
 
-9. Jiansheng Yao, Xinliang Gao, **Huayue Chen**, Yangguang Ke, & Yi Li (2020). The effects of beam proportion on electromagnetic proton/proton instability and associated ion heating: 2D hybrid simulation. Physics of Plasmas, 27, 022901 (2020), http://doi:10.1063/1.5128744.   
+9. Jiansheng Yao, Xinliang Gao, **Huayue Chen**, Yangguang Ke, & Yi Li (2020). The effects of beam proportion on electromagnetic proton/proton instability and associated ion heating: 2D hybrid simulation. Physics of Plasmas, 27, 022901, http://doi:10.1063/1.5128744.   
 
 10. Rui Chen, Xinliang Gao, **Huayue Chen**, & Shui Wang (2020). A new generation mechanism of three-band chorus waves in the Earth’s magnetosphere.Journal of University of Science and Technology of China, 50 (9): 1249-1257, https://doi:10.3969/j.issn.0253-2778.2020.09.004.  
 
 11. **Huayue Chen**, Xinliang Gao, Quanming Lu, Bruce T. Tsurutani, & Shui Wang (2020). Statistical Evidence for EMIC Wave Excitation Driven by Substorm Injection and Enhanced Solar Wind Pressure in the Earth's Magnetosphere: Two Different EMIC Wave Sources. Geophysical Research Letters, 47 (21), https://doi.org/10.1029/2020GL090275.   
 
-12. **Huayue Chen**, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). Two-Band Whistler-mode Waves Excited by an Electron Bi-Maxwellian Distribution Plus Parallel Beams. AIP Advances, accepted.  
+12. **Huayue Chen**, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). Two-Band Whistler-mode Waves Excited by an Electron Bi-Maxwellian Distribution Plus Parallel Beams. AIP Advances, 10, 125010, https://doi.org/10.1063/5.0026220.  
