@@ -1,4 +1,4 @@
-# PaperList
+# Publication
 1. **Huayue Chen**, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). **Lower Band Cascade of Whistler Waves Excited by Anisotropic Hot Electrons: One-Dimensional PIC Simulations**. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513.  
 
 2. **Huayue Chen**, Xinliang Gao, Quanming Lu, Jicheng Sun, & Shui Wang (2018). **Nonlinear Evolution of Counter-Propagating Whistler Mode Waves Excited by Anisotropic Electrons Within the Equatorial Source Region: 1-D PIC Simulations**. Journal of Geophysical Research: Space Physics, 123 (2), 1200-1207, https://doi.org/10.1002/2017JA024850.  
