@@ -24,3 +24,5 @@
 12. **Huayue Chen**, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). **Two-Band Whistler-mode Waves Excited by an Electron Bi-Maxwellian Distribution Plus Parallel Beams**. AIP Advances, 10, 125010, https://doi.org/10.1063/5.0026220.  
 
 13. **Huayue Chen**, Xinliang Gao, Quanming Lu, Konrad Sauer, Rui Chen, Jiansheng Yao, & Shui Wang (2020). **Gap formation around 0.5Ωe of whistler-mode waves excited by electron temperature anisotropy**. Journal of Geophysical Research: Space Physics, accepted.
+
+14. Siqi Zhao, Chijie Xiao, Terry Liu, **Huayue Chen**, Hui Zhang, Mijie Shi, Shangchun Teng, Heshou Zhang, Xiaogang Wang, Zuyin Pu, & Mingzhe Liu (2020). **Observations of the beam-driven whistler mode waves in the magnetic reconnection region at the dayside magnetopause**. Journal of Geophysical Research: Space Physics, accepted.
