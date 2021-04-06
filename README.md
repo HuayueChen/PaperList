@@ -25,4 +25,6 @@
 
 13. Siqi Zhao, Chijie Xiao, Terry Zixu Liu, **Huayue Chen**, Hui Zhang, Mijie Shi, Shangchun Teng, Heshou Zhang, Xiaogang Wang, Zuyin Pu, & Mingzhe Liu (2021). **Observations of the beam-driven whistler mode waves in the magnetic reconnection region at the dayside magnetopause**. Journal of Geophysical Research: Space Physics, 126 (2), https://doi.org/10.1029/2020JA028525.
 
-14. **Huayue Chen**, Xinliang Gao, Quanming Lu, Konrad Sauer, Rui Chen, Jiansheng Yao, & Shui Wang (2020). **Gap formation around 0.5Ωe of whistler-mode waves excited by electron temperature anisotropy**. Journal of Geophysical Research: Space Physics, 126 (2), https://doi.org/10.1029/2020JA028631.
+14. **Huayue Chen**, Xinliang Gao, Quanming Lu, Konrad Sauer, Rui Chen, Jiansheng Yao, & Shui Wang (2021). **Gap formation around 0.5Ωe of whistler-mode waves excited by electron temperature anisotropy**. Journal of Geophysical Research: Space Physics, 126 (2), https://doi.org/10.1029/2020JA028631.
+
+15. Yangguang Ke, Lunjin Chen, Xinliang Gao, Quanming Lu, Xueyi Wang, Rui Chen, **Huayue Chen**, & Shui Wang (2021). **Whistler-mode waves trapped by density irregularities in the Earth's magnetosphere**. Geophysical Research Letters, 48, https://doi.org/10.1029/2020GL092305.
